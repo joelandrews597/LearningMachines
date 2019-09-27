@@ -1,0 +1,26 @@
+People Analytics, also known as HR Analytics and Talent Analytics, is analysis used to make better decisions about
+all aspects of HR strategy with the goal of improving business performance.
+In our case study, A company wants to analyse their employee data to understand the reason behind employee
+attrition, help ensure fair compensation to the deserving employees , predict future attritions, etc . They have a data
+of 14999 employees (data includes: satisfaction level, no.of projects worked on, role, salary, etc) who have left the
+company and who haven't.
+As a Business Analyst, you have to perform the following analysis:
+1. Which data/variables are influencing the attrition of the employees
+2. Based on the employees data, how they can predict the employees who will leave the company on future
+
+
+satisfaction_level – Satisfaction level of employees
+last_evaluation – Last appraisal evaluation
+number_project – No.of project worked on
+average_montly_hours - Average monthly working hours
+spent
+time_spend_company – Time since joined the company
+Work_accident – Whether they have had any work
+accident
+Left – Whether the employee has left (0 : not left, 1: left)
+promotion_last_5years – Whether they have had
+promotions in last 5 years
+Role – Job role (Sales, HR, IT, R&D, etc)
+Salary - Salary (Low, Medium, High)
+role_code – derived from variable Role
+salary.code – derived from variable Salary

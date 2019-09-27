@@ -1,0 +1,3 @@
+A stock trading company wants to forecast the stock price of a company called DM Cart. They have a data of 5 years
+i.e 96 months from 2008, As a Business Analyst, how do you help the stock trading companying in forecasting the
+sales?

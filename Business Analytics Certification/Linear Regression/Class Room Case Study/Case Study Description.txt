@@ -1,0 +1,19 @@
+An E-commerce company wants to Analyse the buying pattern of its customers to optimize their sales strategies which
+mainly includes focusing more on valuable customer (based on the amount of purchase made by customer) . They
+have a data of 325 customers ( data includes: age, job type, education etc) who have made certain purchases from
+their website.
+As a Business Analyst, you have to perform the following analysis:
+1. Which data/variables are influencing the purchase
+2. Based on the profile of current customers, how they can identify the valuable customers from the new list of 200
+customers, so that their sales team can focus more on top 30% of valuable customers.
+
+The Data has the following variables about the customers:
+• Age- It tells about the age of the customers
+• Job Type- Employed, Unemployed, Retired.
+• Education- Primary, Secondary, Graduate
+• Metro city- Yes(if the customer stays in a metro city,) No- (If the
+customer is not from the metro city)
+• Signed in Since- This is the number of days since the customer
+signed in to the website for the first time.
+• Purchase made- the total amount of purchase made by the
+customer .
