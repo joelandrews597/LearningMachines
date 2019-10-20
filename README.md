@@ -12,3 +12,5 @@ Completed my Business Analytics Certification from IMS ProSchool Bangalore.
 7.	Market Basket Analysis
 
 Knowledgeable in R, SQL, Excel.
+
+Kaggle: https://www.kaggle.com/joelxandrews
