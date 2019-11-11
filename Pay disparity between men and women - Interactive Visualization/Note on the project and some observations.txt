@@ -1,0 +1,18 @@
+This is part of the #tidytuesday project: https://github.com/rfordatascience/tidytuesday
+
+DATA: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-05
+
+Here, I learned to create an interactive plot to understand the pay disparity between men and 
+women in the workplace. Also important, to ask the right questions to understand the data.
+
+OBSERVATIONS:
+Health care practitioners/CS Engineers have higher pay and with a steady increase over the years.
+Service industry pays the least with a slight increase in pay over the years.
+
+There's a large disparity in pay among men and women in the Healtcare field.
+The least disparity in pay is seen in the Computer, Engineering and Science field.
+
+Healthcare Practitioners and Legal minor categories have a larger pay disparity.
+Community and social service minor category has the least pay disparity.
+
+References: https://www.youtube.com/watch?v=fv9SQ4IFNr4&t=1096s
